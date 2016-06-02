@@ -17,11 +17,14 @@ Ben Tristem & Michael Bridges
 *Below is a rough projection of the topics in this section and is a copy from previous Gothic Church Section*
 *This will change as this section is fleshed out*
 
-## Section Introduction
+## HB01 Section Introduction
 
 * We Will focus on two main topics
 * Mesh topology 
 * Material Creation 
+
+## HB02 Reference Material
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
