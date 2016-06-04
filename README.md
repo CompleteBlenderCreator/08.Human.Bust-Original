@@ -25,6 +25,7 @@ Ben Tristem & Michael Bridges
 
 ## HB02 Reference Material
 
+## HB03 Good Mesh Topology
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
