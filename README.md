@@ -28,6 +28,9 @@ Ben Tristem & Michael Bridges
 ## HB03 Good Mesh Topology
 
 ## HB04 Possible Construction Methods 
+
+## HB05 Introduction To Retopology
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
