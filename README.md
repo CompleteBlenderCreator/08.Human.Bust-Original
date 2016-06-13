@@ -32,6 +32,8 @@ Ben Tristem & Michael Bridges
 ## HB05 Introduction To Retopology
 
 ## HB06 Creating The Base Mesh
+
+## HB07 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
