@@ -33,7 +33,9 @@ Ben Tristem & Michael Bridges
 
 ## HB06 Creating The Base Mesh
 
-## HB07 The Grease Pe
+## HB07 The Grease Pencil
+
+## HB08 The Knife Tool
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
