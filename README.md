@@ -33,7 +33,7 @@ Ben Tristem & Michael Bridges
 
 ## HB06 Creating The Base Mesh
 
-## HB07 
+## HB07 The Grease Pe
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
