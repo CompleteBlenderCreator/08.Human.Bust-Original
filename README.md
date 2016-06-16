@@ -38,6 +38,8 @@ Ben Tristem & Michael Bridges
 ## HB08 The Knife Tool
 
 ## HB09 The Rip And Rip Fill Tool
+
+## HB10 Vertex Slide and Edge Slide
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
