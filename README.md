@@ -40,6 +40,8 @@ Ben Tristem & Michael Bridges
 ## HB09 The Rip And Rip Fill Tool
 
 ## HB10 Vertex Slide and Edge Slide
+
+## HB11 Routing Face Loops Using Poles
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
