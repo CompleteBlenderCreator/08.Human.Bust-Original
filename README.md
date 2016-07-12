@@ -42,6 +42,8 @@ Ben Tristem & Michael Bridges
 ## HB10 Vertex Slide and Edge Slide
 
 ## HB11 Routing Face Loops Using Poles
+
+## BH12 Defining A Face's Main Face Loops
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
