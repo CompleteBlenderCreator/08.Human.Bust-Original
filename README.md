@@ -44,6 +44,8 @@ Ben Tristem & Michael Bridges
 ## HB11 Routing Face Loops Using Poles
 
 ## BH12 Defining A Face's Main Face Loops
+
+## Getting The Right Skin Tone
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
