@@ -45,7 +45,9 @@ Ben Tristem & Michael Bridges
 
 ## BH12 Defining A Face's Main Face Loops
 
-## Getting The Right Skin Tone
+## BH13 Getting The Right Skin Tone
+
+## BH14 3 Point Lighting
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
