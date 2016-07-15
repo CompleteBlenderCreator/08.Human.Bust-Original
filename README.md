@@ -43,13 +43,15 @@ Ben Tristem & Michael Bridges
 
 ## HB11 Routing Face Loops Using Poles
 
-## BH12 Defining A Face's Main Face Loops
+## HB12 Defining A Face's Main Face Loops
 
-## BH13 Getting The Right Skin Tone
+## HB13 Getting The Right Skin Tone
 
-## BH14 3 Point Lighting
+## HB14 3 Point Lighting
 
-## BH15 Subsurface Scattering
+## HB15 Subsurface Scattering
+
+## HB16 Avoiding Colour Problems
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
