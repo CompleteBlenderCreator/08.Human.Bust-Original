@@ -54,6 +54,9 @@ Ben Tristem & Michael Bridges
 ## HB16 Avoiding Colour Problems
 
 ## HB17 The Layer Weight Node
+
+## HB18 Introduction To The Node Wrangler
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
