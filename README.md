@@ -57,6 +57,8 @@ Ben Tristem & Michael Bridges
 
 ## HB18 Introduction To The Node Wrangler
 
+## HB19 Physics Based Rendering (PBR)
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
