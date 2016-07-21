@@ -59,6 +59,8 @@ Ben Tristem & Michael Bridges
 
 ## HB19 Physics Based Rendering (PBR)
 
+## HB20 The ColorRamp Node 
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
