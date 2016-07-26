@@ -63,6 +63,8 @@ Ben Tristem & Michael Bridges
 
 ## HB21 How Light Interacts With A Surface
 
+## HB22 The Fresnel Node
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
