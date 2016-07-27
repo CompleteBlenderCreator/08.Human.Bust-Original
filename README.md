@@ -65,6 +65,8 @@ Ben Tristem & Michael Bridges
 
 ## HB22 The Fresnel Node
 
+## HB23 Reusing Shaders And Materials
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
