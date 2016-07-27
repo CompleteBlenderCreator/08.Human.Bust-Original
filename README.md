@@ -69,6 +69,8 @@ Ben Tristem & Michael Bridges
 
 ## HB24 The MixRGB Node
 
+## HB25 The Geometry Nodes
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
