@@ -67,6 +67,8 @@ Ben Tristem & Michael Bridges
 
 ## HB23 Reusing Shaders And Materials
 
+## HB24 The MixRGB Node
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
