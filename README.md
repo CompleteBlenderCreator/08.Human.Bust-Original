@@ -71,6 +71,8 @@ Ben Tristem & Michael Bridges
 
 ## HB25 The Geometry Nodes
 
+## HB26 Hue Saturation Value
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
