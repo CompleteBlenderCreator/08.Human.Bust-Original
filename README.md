@@ -73,6 +73,8 @@ Ben Tristem & Michael Bridges
 
 ## HB26 Hue Saturation Value
 
+## HB27 Making Objects Separately
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
