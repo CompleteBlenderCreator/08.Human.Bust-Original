@@ -43,7 +43,7 @@ Ben Tristem & Michael Bridges
 
 ## HB11 Routing Face Loops Using Poles
 
-## HB12 Defining A Face's Main Face Loops
+## HB12 Defining A Face's Main Face Loops (Revised)
 
 ## HB13 Getting The Right Skin Tone
 
@@ -74,6 +74,8 @@ Ben Tristem & Michael Bridges
 ## HB26 Hue Saturation Value
 
 ## HB27 Making Objects Separately
+
+## HB28 Joining Separate Objects
 
 
 ——
