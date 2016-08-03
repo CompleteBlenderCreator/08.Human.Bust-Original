@@ -77,6 +77,8 @@ Ben Tristem & Michael Bridges
 
 ## HB28 Joining Separate Objects
 
+## HB29 Adding Detail with Sculpting
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
