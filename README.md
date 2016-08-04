@@ -79,6 +79,9 @@ Ben Tristem & Michael Bridges
 
 ## HB29 Adding Detail with Sculpting
 
+## HB30 UV Unwrapping A Head
+
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
