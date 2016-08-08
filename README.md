@@ -14,14 +14,8 @@ Enjoy yourselves.
 
 Ben Tristem & Michael Bridges
 
-*Below is a rough projection of the topics in this section and is a copy from previous Gothic Church Section*
-*This will change as this section is fleshed out*
 
 ## HB01 Section Introduction
-
-* We Will focus on two main topics
-* Mesh topology 
-* Material Creation 
 
 ## HB02 Reference Material
 
@@ -80,6 +74,8 @@ Ben Tristem & Michael Bridges
 ## HB29 Adding Detail with Sculpting (Redone 8/8/2016)
 
 ## HB30 UV Unwrapping A Head (Redone 8/8/2016)
+
+## HB31 Texturing The Head
 
 
 ——
