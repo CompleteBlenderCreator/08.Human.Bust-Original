@@ -63,11 +63,11 @@ Ben Tristem & Michael Bridges
 
 ## HB24 The MixRGB Node
 
-## HB25 The Geometry Nodes
+## HB25 The Geometry Node (Edited 9/8/2016)
 
 ## HB26 Hue Saturation Value
 
-## HB27 Making Objects Separately
+## HB27 Making Objects Separately  (Edited 9/8/2016)
 
 ## HB28 Joining Separate Objects
 
@@ -76,6 +76,8 @@ Ben Tristem & Michael Bridges
 ## HB30 UV Unwrapping A Head (Redone 8/8/2016)
 
 ## HB31 Texturing The Head
+
+## HB32 Reviewing Your Work Objectively
 
 
 ——
