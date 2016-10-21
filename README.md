@@ -79,6 +79,8 @@ Ben Tristem & Michael Bridges
 
 ## HB32 Reviewing Your Work Objectively
 
+## HB33 Human Bust Wrap Up
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
