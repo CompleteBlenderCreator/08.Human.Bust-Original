@@ -231,6 +231,3 @@ Focus On 2 Main Topics
 + Finally: Lighting and Environment
 
 ### Section 8 Wrap Up ###
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
