@@ -1,3 +1,11 @@
+# Complete Blender Creator - Section 8 - Human Bust
+
+This is the [Complete Blender Creator course]( http://gdev.tv/cbcgithub) - one of the bestselling and highest rated Blender courses on Udemy! Continually updated in response to student suggestions, you will benefit from the fact we have already taught over 360,336 students game development and design, many shipping commercial games as a result.
+
+You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Complete Blender Creator]( http://gdev.tv/cbcgithub)
+
+## In This Section
+
 ### Section 8 Introduction ###
 
 Michael Introduces The Human Head Section
