@@ -158,13 +158,14 @@ Focus On 2 Main Topics
 + Gain some understanding about the physics behind how our materials are working.
 + We’re not going to get too deep into the math behind it!
 
-### The Fresnel Node ###
+### 22 The Fresnel Node ###
 
 + Makes things more physically accurate.
 + Everything has a fresnel effect in the real world
 + Cycles doesn’t do it by default.
 + Low Roughness > High amount of Fresnel
 + High Roughness > Low amount of Fresnel
++ Updated (18/06/2018)
 
 ### Reusing Shaders And Materials ###
 
